@@ -1,1 +1,1 @@
-# Aula-02-Dev-Web-B-sico
+Uma das minhas aulas de Desenvolvimento Web Básico, pela minha faculdade. 🚀
